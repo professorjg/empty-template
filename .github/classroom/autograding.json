@@ -1,0 +1,104 @@
+{
+  "tests": [
+     {
+      "name": "PA1a testOutput",
+      "setup": "",
+      "run": "mvn test -q \"-Dtest=PA1aTestCase#testOutput\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+     },
+     {
+      "name": "PA1b testBadInput",
+      "setup": "",
+      "run": "mvn test -q \"-Dtest=PA1bTestCase#testBadInput\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+     },
+     {
+      "name": "PA1b testGoodInput",
+      "setup": "",
+      "run": "mvn test -q \"-Dtest=PA1bTestCase#testGoodInput\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+     },
+     {
+      "name": "PA1c testBadInput",
+      "setup": "",
+      "run": "mvn test -q \"-Dtest=PA1cTestCase#testBadInput\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+     },
+     {
+      "name": "PA1c testGoodInput",
+      "setup": "",
+      "run": "mvn test -q \"-Dtest=PA1cTestCase#testGoodInput\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+     },
+     {
+      "name": "PA1d testBadInput",
+      "setup": "",
+      "run": "mvn test -q \"-Dtest=PA1dTestCase#testBadInput\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+     },
+     {
+      "name": "PA1d testMethod",
+      "setup": "",
+      "run": "mvn test -q \"-Dtest=PA1dTestCase#testMethod\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+     },
+     {
+      "name": "PA1d testGoodInput",
+      "setup": "",
+      "run": "mvn test -q \"-Dtest=PA1dTestCase#testGoodInput\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+     },
+     {
+      "name": "PA1e testMethod",
+      "setup": "",
+      "run": "mvn test -q \"-Dtest=PA1eTestCase#testMethod\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+     },
+     {
+      "name": "PA1e testGoodInput",
+      "setup": "",
+      "run": "mvn test -q \"-Dtest=PA1eTestCase#testGoodInput\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+     }
+  ]
+}
