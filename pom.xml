@@ -4,10 +4,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.wit.cs.comp1050</groupId>
-  <artifactId>pa1-review</artifactId>
+  <artifactId>empty-template1</artifactId>
   <version>1.0</version>
-  <name>pa1-review</name>
-  <description>COMP-1050--Programming Assignment 1</description>
+  <name>empty-template1</name>
+  <description>COMP-1050--Empty Assignment</description>
   <url>http://github.com/witcomp1050</url>
 
   <properties>
